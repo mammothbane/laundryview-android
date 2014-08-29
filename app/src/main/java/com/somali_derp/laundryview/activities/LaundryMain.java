@@ -1,9 +1,11 @@
-package com.somali_derp.laundryview;
+package com.somali_derp.laundryview.activities;
 
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+
+import com.somali_derp.laundryview.R;
 
 
 public class LaundryMain extends Activity {
